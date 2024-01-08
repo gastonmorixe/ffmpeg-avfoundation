@@ -1,5 +1,5 @@
 # ffmpeg-avfoundation
-FFmpeg has a bug in Mac avfoundation audio somewhere at or after v4.3 up to today's 6.1.1 in 2024 
+FFmpeg has a bug in Mac avfoundation audio capturing somewhere at or after v4.3 up to today's 6.1.1 in 2024 
 
 After compiling FFppeg v4.2.3 for Mac Arm64, recording or streaming is not longer choppy. 
 
